@@ -22,5 +22,6 @@ class Calculator {
     }
 }
 
+
 const calc = new Calculator(10, 2, 'divide');
-console.log(calc.calculate()); 
+console.log(calc.calculate()); // Output: 5
